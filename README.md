@@ -1,6 +1,6 @@
 # Student Shopping App – Team Project
 
-A mobile application developed with Android Studio and Flutter, specifically designed for university students to buy, sell, and exchange products within the student community. .
+A mobile application developed with Android Studio and Flutter, specifically designed for university students to buy, sell, and exchange products within the student community. 
 ## Key Features
 
 - Full-featured shopping interface tailored for student needs
