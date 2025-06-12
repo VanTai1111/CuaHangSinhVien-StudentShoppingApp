@@ -1,16 +1,11 @@
-# student_market_nttu
+# Student Shopping App – Team Project
 
-A new Flutter project.
+A mobile application developed with Android Studio and Flutter, specifically designed for university students to buy, sell, and exchange products within the student community. .
+## Key Features
 
-## Getting Started
+- Full-featured shopping interface tailored for student needs
+- Post, search, and order products among students
+- In development: “Student Delivery” feature to help students earn extra income
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Team Size
+- 3 memebers
